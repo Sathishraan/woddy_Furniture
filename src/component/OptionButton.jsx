@@ -21,7 +21,7 @@ const OptionButton = () => {
     };
 
     return (
-        <div className="md:pt-11 md:pl-11 max-sm:p-5">
+        <div className="md:pt-11 p-5 md:pl-11 max-sm:p-5">
             <header className="grid grid-cols-2 gap-4 md:flex md:space-x-11 w-full h-auto">
                 {options.map((option, index) => (
                     <button

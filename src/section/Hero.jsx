@@ -6,7 +6,7 @@ const Hero = () => {
 
 
 
-        <div className="w-full m-0 md:pt-11 md:pl-11  max-sm:p-5">
+        <div className="w-full m-0 p-6 md:pt-11 md:pl-11  max-sm:p-5">
 
             <section className='  flex flex-col  md:flex-row items-center w-full'>
 

@@ -4,7 +4,7 @@ import Footer from './component/Footer'
 import Navbar from './component/Navbar'
 import OptionButton from './component/OptionButton'
 import ShopNow from './component/ShopNow'
-import Hero from './section/hero'
+import Hero from './section/Hero'
 
 const App = () => {
   return (
