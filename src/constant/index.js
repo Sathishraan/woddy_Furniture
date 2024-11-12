@@ -1,4 +1,4 @@
-import { chair1, chair2, chair3, chair4, kitchen1, kitchen2, kitchen3, kitchen4, dinning1, dinning2, dinning3, dinning4, bed1, bed2, bed3, bed4, shelves1, shelves2, shelves3, shelves4 } from "../assets/image";
+import { bed1, bed2, bed3, bed4, chair1, chair2, chair3, chair4, dinning1, dinning2, dinning3, dinning4, kitchen1, kitchen2, kitchen3, kitchen4, shelves1, shelves2, shelves3, shelves4 } from "../../public/image";
 
 export const navLinks = [
     { href: "#shop", label: "Shop" },

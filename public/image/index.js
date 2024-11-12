@@ -26,8 +26,7 @@ import bed4 from "./bed4.jpeg";
 import shelves1 from "./shelves1.avif";
 import shelves2 from "./shelves2.avif";
 import shelves3 from "./shelves3.avif";
-import shelves4 from "./shelves4.jpg"
-;
+import shelves4 from "./shelves4.jpg";
 
 export {
     // Bed images
