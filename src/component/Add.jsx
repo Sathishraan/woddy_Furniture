@@ -6,7 +6,7 @@ const Add = () => {
             {/* Image container */}
             <div className='pt-8 md:pl-9 flex-shrink-0'>
                 <img
-                    src="src/assets/image/furniture1.avif"
+                    src="src/assets/image/vecteezy_modern-bedroom-interior-design-in-apartment-or-house-with_26577047.jpg"
                     alt="Hero"
                     className='w-full md:w-[700px] lg:w-[600px] h-auto rounded-3xl object-cover'
                 />

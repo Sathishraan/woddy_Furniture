@@ -17,7 +17,7 @@ const ShopNow = () => {
                 </div>
                 <div className=' max-sm:mt-5 md:pl-24 '>
                     <img
-                        src="src/assets/image/furniture2.avif"
+                        src="src/assets/image/vecteezy_modern-kitchen-interior-design-in-apartment-or-house-with_26585944.jpg"
                         alt="Hero"
                         className=' w-full h-full md:w-[800px]  max-sm:p-6     object-cover' />
                 </div>
@@ -33,20 +33,19 @@ const ShopNow = () => {
             </div>
 
 
-            <div className='  w-full h-auto flex max-sm:pl-5 max-sm:pt-5 max-sm:gap-0 p-0 md:gap-9 md:p-9 lg:p-11 md:flex  '>
+            <div className='  w-full h-auto flex justify-center  max-sm:pl-5 max-sm:pt-5 max-sm:gap-0 p-0 md:gap-9 md:p-9 lg:p-11 md:flex  '>
 
-                <div className='md:flex-col lg:w-[800px] lg:h-[400px]  max-sm:w-[270px] max-sm:h-[190px] '>
-
-                    <img src="src/assets/image/Brown Furniture Sale Banner.jpg" alt="imge"
+                <div className='md:flex-col lg:w-[686px] lg:h-[400px]  max-sm:w-[270px] max-sm:h-[190px] '>
+                    <img src="src/assets/image/vecteezy_mockup-poster-frame-on-the-wall-of-living-room-luxurious_22964961.jpg" alt="imge"
                         className='rounded-3xl  md:flex justify-items-end ' />
 
-                    <img src="src/assets/image/Yellow And Cream Minimalist Furniture Sale Banner.jpg" alt="imge"
+                    <img src="src/assets/image/vecteezy_mockup-poster-frame-on-the-wall-of-living-room-luxurious_22874686.jpg" alt="imge"
                         className='rounded-3xl  md:flex justify-items-end md:pt-4 max-sm:pt-4' />
                 </div>
 
 
 
-                <img src="src/assets/image/Grey and Brown Furniture Simple Now Over Bezia Furniture Instagram Story.jpg" alt="imge"
+                <img src="src/assets/image/vecteezy_contemporary-pink-armchair-style_43554107.jpeg" alt="imge"
                     className='rounded-3xl md:w-[590px] md:h-[810px] lg:pl-0 md:flex justify-items-end max-sm:w-[190px] max-sm:h-[265px] max-sm:pr-3 max-sm:pl-4' />
             </div>
 

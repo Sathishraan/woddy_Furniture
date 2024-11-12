@@ -17,9 +17,9 @@ const Hero = () => {
                 </div>
                 <div className=' pt-8 md:pl-9'>
                     <img
-                        src="src/assets/image/hero.jpg"
+                        src="src/assets/image/vecteezy_modern-kitchen-interior-design-in-apartment-or-house-with_26586658.jpg"
                         alt="Hero"
-                        className=' w-full md:w-[700px] lg:w-[600px] h-auto rounded-3xl object-cover md:pr-0' />
+                        className=' w-full md:w-[800px] lg:w-[800px] h-auto rounded-3xl object-cover md:pr-0' />
                 </div>
 
             </section>
