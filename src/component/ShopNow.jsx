@@ -25,8 +25,7 @@ const ShopNow = () => {
 
             </section>
 
-            <div className='mt-16 ml-4 font-bold font-palanquin text-4xl
-                      md:mt-32 md:text-6xl md:flex justify-center '>
+            <div className='mt-16 ml-4 font-bold font-palanquin text-4xl   md:mt-32 md:text-6xl md:flex justify-center '>
                 <h1>
                     Inspiring interior crafted with passion
                 </h1>
@@ -45,7 +44,7 @@ const ShopNow = () => {
 
 
 
-                <img src="src/assets/image/vecteezy_contemporary-pink-armchair-style_43554107.jpeg" alt="imge"
+                <img src="/image/vecteezy_contemporary-pink-armchair-style_43554107.jpeg" alt="imge"
                     className='rounded-3xl md:w-[590px] md:h-[810px] lg:pl-0 md:flex justify-items-end max-sm:w-[190px] max-sm:h-[265px] max-sm:pr-3 max-sm:pl-4' />
             </div>
 
